@@ -2,6 +2,6 @@
 
 https://webmap-fe-index.netlify.app
 
-# Dashboar fe-index
+# Dashboard fe-index
 
 https://hugoh-sig.shinyapps.io/oxidos-ferro/
